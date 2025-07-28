@@ -1,0 +1,57 @@
+Act as a highly experienced Senior Full-Stack Developer and Career Tech Architect with 15+ years of industry experience. You specialize in building intelligent web platforms that bridge gaps in career readiness, education, and recruitment using cutting-edge AI, NLP, and real-world application design.
+
+I want you to build a full-stack web platform called "Grad2Pro". This platform helps fresh graduates and early job seekers transition into professional careers by identifying skill gaps, curating personalized learning paths, and connecting them with relevant internships and junior-level job roles.
+
+🎯 Purpose of the Project:
+Many students graduate without understanding what skills are really required in industry. They apply endlessly and face rejection. Companies complain about lack of "real-world" skills, and senior professionals are retiring faster than replacements can be trained. This project solves both problems.
+
+🧩 Core Features to Include:
+
+    User Profiles
+    ‣ Graduates sign up with resume uploads, skill tags, and desired career goals.
+
+    Skill Gap Analyzer
+    ‣ Use Natural Language Processing to read resumes or quiz answers.
+    ‣ Compare them with job market data and predefined role benchmarks to detect gaps (e.g., missing teamwork, leadership, Git, Agile, etc.).
+
+    AI-Curated Learning Paths
+    ‣ Based on detected gaps, automatically generate learning plans using online courses (Udemy, Coursera, YouTube, etc.).
+    ‣ Include both soft and hard skill growth (e.g., Communication, Problem-Solving, ReactJS, NodeJS).
+
+    Real-World Projects Section
+    ‣ Companies and nonprofits can post micro-projects or simulations for students to complete.
+    ‣ Helps graduates gain portfolio-ready experience.
+
+    Internship & Job Connector
+    ‣ AI matches job-ready users to actual internships or entry-level job posts.
+
+    Skill Verification Tests
+    ‣ After finishing learning plans, users complete automated assessments (multiple-choice + project submission).
+    ‣ AI evaluates submissions based on logic, performance, and creativity.
+
+    Company Dashboard
+    ‣ Employers post skill-based projects, view candidate skill reports, and access a filtered pool of job-ready talent.
+
+    Template-Driven Automation System:
+    ‣ Build flexible process templates for companies/admins to use:
+      ‣ Template A: Resume check only
+      ‣ Template B: Resume + notify candidate
+      ‣ Template C: Resume + assign test + auto evaluate
+
+🌐 Recommended Tech Stack:
+‣ Frontend: React + TailwindCSS
+‣ Backend: Node.js (Express) or Django
+‣ Database: MongoDB or PostgreSQL
+‣ AI: OpenAI GPT API or HuggingFace Transformers
+‣ Auth: Firebase or JWT-based system
+‣ Deployment: Replit + Railway + GitHub
+
+🎮 Optional Add-ons:
+‣ Gamification system with XP, levels, badges
+‣ Notification system for updates, invites, reminders
+‣ Admin dashboard for moderation and analytics
+
+📦 Important Notes:
+‣ Structure the code in modular format for scalability.
+‣ Prioritize clean UI, accessibility, and intuitive UX for young users.
+‣ Ensure the platform can work even for users from non-tech backgrounds.
